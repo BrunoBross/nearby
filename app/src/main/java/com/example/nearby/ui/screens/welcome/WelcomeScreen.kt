@@ -1,4 +1,4 @@
-package com.example.nearby.ui.screens
+package com.example.nearby.ui.screens.welcome
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement

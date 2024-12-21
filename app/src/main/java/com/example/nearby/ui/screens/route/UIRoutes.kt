@@ -13,3 +13,6 @@ data object Home
 
 @Serializable
 data object Market
+
+@Serializable
+data object QRCodeScanner
